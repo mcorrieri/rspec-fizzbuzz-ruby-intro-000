@@ -7,7 +7,6 @@ def fizzbuzz(int)
     "FizzBuzz"
   else int % 4 == 0
     "nil"
-
 end
 
 fizzbuzz(3)
