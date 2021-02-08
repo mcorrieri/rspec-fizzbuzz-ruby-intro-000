@@ -8,13 +8,13 @@ def fizzbuzz(int)
 #   end
 # end
 if int % 15 == 0
-  puts "FizzBuzz"
+   "FizzBuzz"
 elsif int % 3 == 0
-  puts "Fizz"
+   "Fizz"
 elsif int % 4 == 0
-  puts "nil"
+   "nil"
 else int % 5 == 0
-  puts "Buzz"
+   "Buzz"
   end
 end
 
