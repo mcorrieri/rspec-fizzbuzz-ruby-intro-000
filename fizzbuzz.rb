@@ -12,7 +12,7 @@ if int % 15 == 0
 elsif int % 3 == 0
    "Fizz"
 elsif int % 4 == 0
-   "nil"
+   nil
 else int % 5 == 0
    "Buzz"
   end
