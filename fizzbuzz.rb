@@ -3,7 +3,7 @@ def fizzbuzz(int)
     puts "Fizz"
   elsif int % 5 == 0
     puts "Buzz"
-  elsif (int % 3 == 0) && (int % 15 == 0)
+  elsif (int % 3 == 0) && (int % 5 == 0)
     puts "FizzBuzz"
   else int % 4 == 0
     puts "nil"
