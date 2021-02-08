@@ -7,13 +7,13 @@ def fizzbuzz(int)
 #     puts "FizzBuzz"
 #   end
 # end
-if int%15 == 0
+if int % 15 == 0
   puts "FizzBuzz"
-elsif int%3 == 0
+elsif int % 3 == 0
   puts "Fizz"
-elsif int%4 == 0
+elsif int % 4 == 0
   puts "nil"
-else int%5 == 0
+else int % 5 == 0
   puts "Buzz"
   end
 end
