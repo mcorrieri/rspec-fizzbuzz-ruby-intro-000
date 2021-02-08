@@ -9,4 +9,4 @@ def fizzbuzz(int)
     "nil"
 end
 
-fizzbuzz(3)
+fizzbuzz(15)
